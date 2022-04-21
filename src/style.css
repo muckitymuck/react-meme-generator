@@ -9,6 +9,7 @@ body {
 
 main {
     padding: 36px;
+    max-width: 600px;
 }
 
 .header {
